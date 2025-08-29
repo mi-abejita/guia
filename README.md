@@ -69,7 +69,7 @@
 
 > #### Si has llegado hasta aqui quiero decirte que lo estás haciendo muy bien mi amor, sigue así te falta muy poco, te quiero mucho ♥.
 
-- Ve a "Network" en el menu.<img src="network.svg" alt="Settings Icon" width="40" style="vertical-align: middle;"/>
+- Ve a "Network" en el menu. <img src="network.svg" alt="Settings Icon" width="40" style="vertical-align: middle;"/>
 
 - Dirigete al navegador y abrelo. <img src="browser.svg" alt="Settings Icon" width="40" style="vertical-align: middle;"/>
 
